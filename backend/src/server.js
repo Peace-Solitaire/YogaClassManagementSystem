@@ -27,7 +27,7 @@ app.use((err, req, res, next) => {
   res.status(500).send("Something went wrong!");
 });
 
-const admissionRouter = require("./routes/admission")(pool);
+const admissionRouter = require("../routes/admission")(pool);
 app.use("/admission", admissionRouter);
 
 app.listen(PORT, () => {

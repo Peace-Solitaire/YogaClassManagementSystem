@@ -7,7 +7,7 @@ Welcome to the Yoga Class Management System repository! This project is a web ap
 
 ## Demo
 
-Insert gif or link to demo
+![alt text](https://github.com/[Peace-Solitaire]/[YogaClassManagementSystem]/HomepageDemo.png?raw=true)
 
 
 ## Features

@@ -1,5 +1,5 @@
 
-# Yoga Class Management System
+# AyurYoga Scheduler
 
 ## Overview
 Welcome to the Yoga Class Management System repository! This project is a web application built with React, Chakra UI, Node.js, and MySQL. It enables users to enroll in monthly yoga classes offered by Ayurveda Centre. "You can explore my Yoga Class Management System web application by visiting this [link](https://yoga-class-googleform.onrender.com)
